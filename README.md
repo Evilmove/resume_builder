@@ -26,7 +26,7 @@ This online resume builder assists job searchers in building a professional resu
 
 <h3><b>Termwork Project</b></h3>
 
-<!-- [Resume Builder](https://github.com/R-Ayush777/WDW_Project_CE104_CE108_CE144) -->
+<!-- [Resume Builder](https://github.com/Evilmove/resume_builder) -->
 _**Created by :-**_ <br>[Rahul Meena](https://github.com/Evilmove)<br>[Hashpreet singh](https://github.com/Hashpreetsingh)<br>[Shivamraj](https://github.com/Shivamrj2005)<br>[pravesh Choudhary](https://github.com/pravesh151)<br>[Muskan](https://github.com/muskantak9)
 
 ---
@@ -41,13 +41,6 @@ _**Created by :-**_ <br>[Rahul Meena](https://github.com/Evilmove)<br>[Hashpreet
 
 
 ---
-
-## Watch Demo Video :-
-
-(Project Demo Link)
-"[Resume Builder](https://drive.google.com/file/d/1EuOOZCdjE9vxb4UhVG27ybTMskUWizxt/view?usp=sharing)"
-
-<!-- ![Home](ResumeBuilder.gif) -->
 
 <br>
 
