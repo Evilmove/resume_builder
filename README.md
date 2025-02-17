@@ -31,13 +31,13 @@ _**Created by :-**_ <br>[Rahul Meena](https://github.com/Evilmove)<br>[Hashpreet
 
 ---
 
-![image](https://github.com/ayush-rudani/Resume-Builder/assets/78534043/7e28f150-1e37-4a58-b400-77a07ebfb911)
+![image](https://github.com/Evilmove/resume_builder/blob/v1.0/images/T1.PNG)
 
-![image](https://github.com/ayush-rudani/Resume-Builder/assets/78534043/3204455c-d0d3-43b4-aaae-29c7b0d8da57)
+![image](https://github.com/Evilmove/resume_builder/blob/v1.0/images/T2.PNG)
 
-![image](https://github.com/ayush-rudani/Resume-Builder/assets/78534043/bc1dae56-eb97-45c6-96cb-144566b51753)
+![image](https://github.com/Evilmove/resume_builder/blob/v1.0/images/T3.PNG)
 
-![image](https://github.com/ayush-rudani/Resume-Builder/assets/78534043/2bc5c1ab-5ccc-4757-a5ca-7dffbadaed4b)
+![image](https://github.com/Evilmove/resume_builder/blob/v1.0/images/T4.PNG)
 
 
 ---
